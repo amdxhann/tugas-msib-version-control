@@ -1,0 +1,1 @@
+echo "ini adalah file 1" >> file1.txt
